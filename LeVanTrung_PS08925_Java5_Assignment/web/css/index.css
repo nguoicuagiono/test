@@ -1,0 +1,40 @@
+
+/* 
+    Created on : Jun 22, 2019, 22:21:20 PM
+    Author     : Heartnet
+*/
+
+.carousel{
+    position: relative;
+}
+
+.dangnhap{
+    position: absolute;
+    top: 8px;
+    right: 10px;    
+}
+
+.dangnhap>ul>li{
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.dangnhap>ul>li>a{
+    text-decoration: none;
+    color:#FF3300;
+    border: 5px;
+    font-size: 30px;
+    
+}
+
+.dangnhap>ul>li>a:hover{
+    color: #2cd653;
+    font-size: 35px;
+}
+
+.collapse>ul>li{
+}
+
+.collapse>ul>li>a:hover{
+}
+
